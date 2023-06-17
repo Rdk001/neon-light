@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/neon-light/static/css/main.33fe0901.css",
-    "main.js": "/neon-light/static/js/main.f8facb61.js",
+    "main.css": "/neon-light/static/css/main.a13a3cb7.css",
+    "main.js": "/neon-light/static/js/main.5ea39ec1.js",
     "static/js/787.171d7183.chunk.js": "/neon-light/static/js/787.171d7183.chunk.js",
     "static/media/ShantellSans-Light.ttf": "/neon-light/static/media/ShantellSans-Light.53203cb17ecb67c0116d.ttf",
     "static/media/Pacifico-Regular.ttf": "/neon-light/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
@@ -31,15 +31,15 @@
     "static/media/AlumniSans-Thin.woff2": "/neon-light/static/media/AlumniSans-Thin.858c85db2e5042f8ad83.woff2",
     "static/media/PoiretOne-Regular.woff": "/neon-light/static/media/PoiretOne-Regular.ad863ab3b2566c651506.woff",
     "static/media/PoiretOne-Regular.woff2": "/neon-light/static/media/PoiretOne-Regular.96f420af125649f2e08b.woff2",
-    "static/media/pin.svg": "/neon-light/static/media/pin.6d40fe1b4013bfaf34d4caad5088d164.svg",
+    "static/media/pin.svg": "/neon-light/static/media/pin.a27665badb2210cfc459040fe508bdc4.svg",
     "index.html": "/neon-light/index.html",
-    "static/media/cross.svg": "/neon-light/static/media/cross.3142cba7f84bcffb099661f3e1eeba64.svg",
-    "main.33fe0901.css.map": "/neon-light/static/css/main.33fe0901.css.map",
-    "main.f8facb61.js.map": "/neon-light/static/js/main.f8facb61.js.map",
+    "static/media/cross.svg": "/neon-light/static/media/cross.36498fd6c171a2be05ce6610c8c0c3c2.svg",
+    "main.a13a3cb7.css.map": "/neon-light/static/css/main.a13a3cb7.css.map",
+    "main.5ea39ec1.js.map": "/neon-light/static/js/main.5ea39ec1.js.map",
     "787.171d7183.chunk.js.map": "/neon-light/static/js/787.171d7183.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33fe0901.css",
-    "static/js/main.f8facb61.js"
+    "static/css/main.a13a3cb7.css",
+    "static/js/main.5ea39ec1.js"
   ]
 }

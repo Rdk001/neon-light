@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/neon-light/static/css/main.c5f469c8.css",
-    "main.js": "/neon-light/static/js/main.4dac7068.js",
+    "main.js": "/neon-light/static/js/main.db00527c.js",
     "static/js/787.171d7183.chunk.js": "/neon-light/static/js/787.171d7183.chunk.js",
     "static/media/ShantellSans-Light.ttf": "/neon-light/static/media/ShantellSans-Light.53203cb17ecb67c0116d.ttf",
     "static/media/Pacifico-Regular.ttf": "/neon-light/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
@@ -35,11 +35,11 @@
     "index.html": "/neon-light/index.html",
     "static/media/cross.svg": "/neon-light/static/media/cross.3142cba7f84bcffb099661f3e1eeba64.svg",
     "main.c5f469c8.css.map": "/neon-light/static/css/main.c5f469c8.css.map",
-    "main.4dac7068.js.map": "/neon-light/static/js/main.4dac7068.js.map",
+    "main.db00527c.js.map": "/neon-light/static/js/main.db00527c.js.map",
     "787.171d7183.chunk.js.map": "/neon-light/static/js/787.171d7183.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5f469c8.css",
-    "static/js/main.4dac7068.js"
+    "static/js/main.db00527c.js"
   ]
 }

@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/neon-light/static/css/main.c5f469c8.css",
-    "main.js": "/neon-light/static/js/main.db00527c.js",
+    "main.css": "/neon-light/static/css/main.20d186f5.css",
+    "main.js": "/neon-light/static/js/main.c9c719d0.js",
     "static/js/787.171d7183.chunk.js": "/neon-light/static/js/787.171d7183.chunk.js",
     "static/media/ShantellSans-Light.ttf": "/neon-light/static/media/ShantellSans-Light.53203cb17ecb67c0116d.ttf",
     "static/media/Pacifico-Regular.ttf": "/neon-light/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
+    "static/media/bg2@2x.jpg": "/neon-light/static/media/bg2@2x.5963511808295307524e.jpg",
     "static/media/Caveat-Regular.ttf": "/neon-light/static/media/Caveat-Regular.1f129497cd349562c266.ttf",
+    "static/media/bg1@2x.jpg": "/neon-light/static/media/bg1@2x.933a18b3eb7c794450ec.jpg",
     "static/media/ShantellSans-Light.woff": "/neon-light/static/media/ShantellSans-Light.e0565ba727b173e5c511.woff",
+    "static/media/bg4@2x.jpg": "/neon-light/static/media/bg4@2x.66f072d417a8801d9fe1.jpg",
     "static/media/Pacifico-Regular.woff": "/neon-light/static/media/Pacifico-Regular.e339c6943424b7bcceb6.woff",
     "static/media/Caveat-Regular.woff": "/neon-light/static/media/Caveat-Regular.9bba0dff22df764e3f25.woff",
     "static/media/Exo2-ExtraLight.ttf": "/neon-light/static/media/Exo2-ExtraLight.84c3ac5390238269feb2.ttf",
     "static/media/SourceCodePro-ExtraLight.ttf": "/neon-light/static/media/SourceCodePro-ExtraLight.f29058d6e66caa6b1c18.ttf",
     "static/media/ShantellSans-Light.woff2": "/neon-light/static/media/ShantellSans-Light.c50ca04087b4a16e169a.woff2",
     "static/media/Comfortaa-Medium.ttf": "/neon-light/static/media/Comfortaa-Medium.db5c74bd40268b35dc93.ttf",
+    "static/media/bg3@2x.jpg": "/neon-light/static/media/bg3@2x.ebf554aa4622644c4823.jpg",
     "static/media/Caveat-Regular.woff2": "/neon-light/static/media/Caveat-Regular.fed80781f4c5f574ee9a.woff2",
     "static/media/Pacifico-Regular.woff2": "/neon-light/static/media/Pacifico-Regular.d75d5ecea13c228ed785.woff2",
     "static/media/bg2@1x.jpg": "/neon-light/static/media/bg2@1x.718de0ab6f84daca0061.jpg",
@@ -34,12 +38,12 @@
     "static/media/pin.svg": "/neon-light/static/media/pin.6d40fe1b4013bfaf34d4caad5088d164.svg",
     "index.html": "/neon-light/index.html",
     "static/media/cross.svg": "/neon-light/static/media/cross.3142cba7f84bcffb099661f3e1eeba64.svg",
-    "main.c5f469c8.css.map": "/neon-light/static/css/main.c5f469c8.css.map",
-    "main.db00527c.js.map": "/neon-light/static/js/main.db00527c.js.map",
+    "main.20d186f5.css.map": "/neon-light/static/css/main.20d186f5.css.map",
+    "main.c9c719d0.js.map": "/neon-light/static/js/main.c9c719d0.js.map",
     "787.171d7183.chunk.js.map": "/neon-light/static/js/787.171d7183.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5f469c8.css",
-    "static/js/main.db00527c.js"
+    "static/css/main.20d186f5.css",
+    "static/js/main.c9c719d0.js"
   ]
 }

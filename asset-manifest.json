@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/neon-light/static/css/main.80d91d4f.css",
-    "main.js": "/neon-light/static/js/main.c9c719d0.js",
-    "static/js/787.171d7183.chunk.js": "/neon-light/static/js/787.171d7183.chunk.js",
+    "main.js": "/neon-light/static/js/main.b30ece0d.js",
     "static/media/ShantellSans-Light.ttf": "/neon-light/static/media/ShantellSans-Light.53203cb17ecb67c0116d.ttf",
     "static/media/Pacifico-Regular.ttf": "/neon-light/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
     "static/media/bg2@2x.jpg": "/neon-light/static/media/bg2@2x.5963511808295307524e.jpg",
@@ -39,11 +38,10 @@
     "index.html": "/neon-light/index.html",
     "static/media/cross.svg": "/neon-light/static/media/cross.3142cba7f84bcffb099661f3e1eeba64.svg",
     "main.80d91d4f.css.map": "/neon-light/static/css/main.80d91d4f.css.map",
-    "main.c9c719d0.js.map": "/neon-light/static/js/main.c9c719d0.js.map",
-    "787.171d7183.chunk.js.map": "/neon-light/static/js/787.171d7183.chunk.js.map"
+    "main.b30ece0d.js.map": "/neon-light/static/js/main.b30ece0d.js.map"
   },
   "entrypoints": [
     "static/css/main.80d91d4f.css",
-    "static/js/main.c9c719d0.js"
+    "static/js/main.b30ece0d.js"
   ]
 }

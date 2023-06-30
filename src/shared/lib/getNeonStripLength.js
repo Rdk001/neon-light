@@ -1,4 +1,6 @@
 const LETTER_HEIGHT_TO_LED_LENGTH_MAP = {
+  6: 15,
+  7: 22,
   8: 30,
   10: 38,
   12: 45,
